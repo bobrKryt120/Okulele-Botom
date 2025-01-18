@@ -1,5 +1,9 @@
 h1 {
     text-transform: uppercase;
+    background: url(https://zavitok.in.ua/image/cache/catalog/trafarety/bezh/trafaret-85-vostochnyj-pattern-1200x1200.jpg);
+    background-size: 75px;
+    border: 3px solid peru;
+    padding: 5px;
 }
 
 table img {
@@ -65,4 +69,9 @@ nav a {
 footer p {
     border: 3px solid red;
     padding: 10px;
+}
+
+.juj {
+    font-size: 50px;
+    color: brown;
 }
